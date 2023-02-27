@@ -18,10 +18,10 @@
 
 
   ## Installation
-  Simply navigate to your terminal within the root folder of your project and run "npm i" or "npm install"
+  simply navigate to your terminal within the root folder of your project and run "node index"
     
   ## Usage 
-  To create an awesome readme for your even awesomer project!
+  to create an awesome readme for your even awesomer project!
 
   
   ## License
@@ -32,11 +32,11 @@
     
 
   ## Contributing
-  Add to your heart's desire!
+  Addto your hearts desire!
 
   ## Tests
   Below are some examples on how to run the tests for this project.
-  No tests available at this time
+  no tests available at this time
 
   ## Questions
   For more questions about this project you may use the below contact information:
